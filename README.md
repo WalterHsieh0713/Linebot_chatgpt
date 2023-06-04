@@ -55,6 +55,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions, feel free to reach out to the project maintainers:
 
-- [Your Name](mailto:your-email@example.com)
-- [OpenAI](https://openai.com/contact-us)
-- [Line Developer Community](https://community.line.me/en/)
+- [Walter Hsieh](mailto:dynamic.walter@gmail.com)
+- [OpenAI](https://help.openai.com/en/)
+- [Line Developers](https://developers.line.biz/en/)
